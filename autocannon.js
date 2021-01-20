@@ -1,5 +1,3 @@
-#! /usr/bin/env node
-
 'use strict'
 
 const crossArgv = require('cross-argv')
